@@ -1,0 +1,84 @@
+.divnav{
+    background-color: #cccccc;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+div h1{
+    margin-left: 20px;
+}
+.loginbutton{
+    margin-right: 30px;
+    background-color: #2b78e4;
+    color: white;
+    box-shadow: 1px 5px 5px 1px black;
+    height: 30px;
+    
+}
+.wrapper{
+    width: 60%;
+    margin:0 auto;
+}
+.input{
+    padding: 5px 200px 5px 0px;
+    border: black solid;
+    color: grey;
+}
+.div1main{
+    border: black solid;
+    display:flex;
+    margin-top: 30px;
+    padding: 10px;
+
+    
+}
+div p{
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.display{
+    display:flex;
+    align-items: top;
+}
+.div1mainbtn{
+    display:flex;
+    align-items: center;
+}
+.left{
+    margin-right: 60px;
+    line-height: 2rem;
+    text-align: center;
+}
+.right{
+  font-size: 20px;
+  max-width: 49%;  
+  align-items: center;
+  margin-top: 10%;
+}
+.leftdiv{
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 30px;
+    height: 149px;
+}
+.likesbtn{
+    background-color: #ffd966;
+    color: black;
+    box-shadow: 1px 5px 5px 1px black;
+}
+.addbtn{
+    background-color: #93c47d;
+    width: 100%;
+    box-shadow: 1px 5px 5px 1px black;
+}
+
+.div p{
+    margin-top: 50px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.left *{
+    margin-bottom: 0px;
+}
